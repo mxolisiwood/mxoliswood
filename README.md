@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxolisiwood&layout=compact&theme=radical"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?show_icons=true&username=greatmaxix&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?show_icons=true&username=mxolisiwood&theme=radical" />
 </a>
 <!--
 **greatmaxix/greatmaxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
